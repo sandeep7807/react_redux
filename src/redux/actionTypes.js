@@ -1,0 +1,4 @@
+export const GET_CHARACTERS = "GET_CHARACTERS";
+export const GET_FILMS = "GET_FILMS";
+export const ERROR_CHARACTER = "ERROR_CHARACTER";
+export const ERROR_FILMS = "ERROR_FILMS";
